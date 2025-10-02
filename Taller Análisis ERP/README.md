@@ -4,6 +4,7 @@
 - [ ] Nombre 1
 - [ ] Nombre 2
 - [ ] Daniel Alonso Gracia Pinto
-- [ ] Nombre 4
+- [ ] David Alejandro Herrera Novoa
 - [ ] Nicole Ariadna Celemin Triana
+
 
